@@ -1,0 +1,1 @@
+PROFCHS//C,,generic_x12_861.v4010.out861ReceiptConfirm:startReceiptCanonicalTo861ReceiptConfirm,,,Generic,861 Receipt Confirmation,,
